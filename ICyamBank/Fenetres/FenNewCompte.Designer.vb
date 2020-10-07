@@ -203,7 +203,6 @@ Partial Class FenNewCompte
         Me.ComboBox_Groupe.Location = New System.Drawing.Point(119, 71)
         Me.ComboBox_Groupe.Name = "ComboBox_Groupe"
         Me.ComboBox_Groupe.Size = New System.Drawing.Size(253, 21)
-        Me.ComboBox_Groupe.Sorted = True
         Me.ComboBox_Groupe.TabIndex = 4
         '
         'Label_Groupe

@@ -201,6 +201,9 @@ Public Class FenNewCompte
 
         End If
 
+        'On vide la TextBox
+        TextBox_Liste.Clear()
+
         Label_NoListe.Text = "0" 'Remettre la liste en cours de traitement à 0
 
         'Revalider les boutons
